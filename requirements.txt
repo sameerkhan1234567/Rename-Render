@@ -8,3 +8,4 @@ TgCrypto
 dnspython
 aiohttp
 pytz
+gunicorn
